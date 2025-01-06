@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajendra7585/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rajendra7585/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
+| [1894-merge-strings-alternately](https://github.com/rajendra7585/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/rajendra7585/leetcode/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [1894-merge-strings-alternately](https://github.com/rajendra7585/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
