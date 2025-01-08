@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajendra7585/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2700-substring-xor-queries](https://github.com/rajendra7585/leetcode/tree/master/2700-substring-xor-queries) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/rajendra7585/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2577-count-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajendra7585/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2700-substring-xor-queries](https://github.com/rajendra7585/leetcode/tree/master/2700-substring-xor-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/rajendra7585/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rajendra7585/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajendra7585/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2700-substring-xor-queries](https://github.com/rajendra7585/leetcode/tree/master/2700-substring-xor-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2700-substring-xor-queries](https://github.com/rajendra7585/leetcode/tree/master/2700-substring-xor-queries) |
 ## String Matching
 |  |
 | ------- |
