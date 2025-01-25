@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2700-substring-xor-queries](https://github.com/rajendra7585/leetcode/tree/master/2700-substring-xor-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajendra7585/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rajendra7585/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -191,4 +192,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
