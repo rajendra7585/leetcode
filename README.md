@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajendra7585/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajendra7585/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/rajendra7585/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajendra7585/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajendra7585/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2001-jump-game-vii](https://github.com/rajendra7585/leetcode/tree/master/2001-jump-game-vii) |
 | [2577-count-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2577-count-palindromic-subsequences) |
 ## Stack
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/rajendra7585/leetcode/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
