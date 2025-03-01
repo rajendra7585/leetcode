@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajendra7585/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajendra7585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/rajendra7585/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajendra7585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/rajendra7585/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/rajendra7585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajendra7585/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
