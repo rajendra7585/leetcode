@@ -23,10 +23,7 @@ public:
             
         }
         
-            for(int j=0;j<n;j++){
-                res[j]=(ans[n-1][j]);
-            }
-        
+            res=ans[n-1];
 
         return res;
     }
