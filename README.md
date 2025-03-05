@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajendra7585/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajendra7585/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajendra7585/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
