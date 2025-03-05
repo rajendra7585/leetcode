@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajendra7585/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
