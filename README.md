@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajendra7585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajendra7585/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2001-jump-game-vii](https://github.com/rajendra7585/leetcode/tree/master/2001-jump-game-vii) |
