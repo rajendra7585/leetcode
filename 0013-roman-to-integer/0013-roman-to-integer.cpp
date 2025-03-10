@@ -12,7 +12,7 @@ public:
             {'M', 1000}
         };
 
-        for (int i = 0; i < s.size() - 1; i++) {
+        for (int i = 0; i < s.size() ; i++) {
             if (roman[s[i]] < roman[s[i + 1]]) {
                 res -= roman[s[i]];
             } else {
@@ -20,6 +20,6 @@ public:
             }
         }
 
-        return res + roman[s[s.size() - 1]];        
+        return res ;        
     }
 };
