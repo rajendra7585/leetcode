@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajendra7585/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/rajendra7585/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajendra7585/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rajendra7585/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/rajendra7585/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
