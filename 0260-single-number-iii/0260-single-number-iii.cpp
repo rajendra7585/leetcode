@@ -9,7 +9,8 @@ public:
             x ^= Arr[i];
         }
     
-        long long int num =x & -x;
+        long long int num =x & x-1;
+        num = num ^ x;
         
         
     
