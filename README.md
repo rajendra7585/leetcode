@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajendra7585/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rajendra7585/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajendra7585/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rajendra7585/leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/rajendra7585/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/rajendra7585/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
