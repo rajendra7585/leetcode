@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rajendra7585/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rajendra7585/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rajendra7585/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rajendra7585/leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
