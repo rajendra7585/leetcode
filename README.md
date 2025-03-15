@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajendra7585/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajendra7585/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rajendra7585/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rajendra7585/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rajendra7585/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajendra7585/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rajendra7585/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rajendra7585/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rajendra7585/leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rajendra7585/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Bucket Sort
 |  |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajendra7585/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
