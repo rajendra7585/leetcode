@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajendra7585/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1876-map-of-highest-peak](https://github.com/rajendra7585/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajendra7585/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rajendra7585/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajendra7585/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -422,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/rajendra7585/leetcode/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
