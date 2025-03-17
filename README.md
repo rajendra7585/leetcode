@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rajendra7585/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rajendra7585/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajendra7585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rajendra7585/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/rajendra7585/leetcode/tree/master/0860-design-circular-queue) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/rajendra7585/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rajendra7585/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
