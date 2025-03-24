@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajendra7585/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajendra7585/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rajendra7585/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajendra7585/leetcode/tree/master/0055-jump-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajendra7585/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rajendra7585/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajendra7585/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rajendra7585/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajendra7585/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/rajendra7585/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
