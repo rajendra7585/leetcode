@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/rajendra7585/leetcode/tree/master/2145-grid-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajendra7585/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajendra7585/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rajendra7585/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajendra7585/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rajendra7585/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
