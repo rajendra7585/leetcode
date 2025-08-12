@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2001-jump-game-vii](https://github.com/rajendra7585/leetcode/tree/master/2001-jump-game-vii) |
 | [2577-count-palindromic-subsequences](https://github.com/rajendra7585/leetcode/tree/master/2577-count-palindromic-subsequences) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rajendra7585/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Stack
 |  |
 | ------- |
