@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajendra7585/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/rajendra7585/leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rajendra7585/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -535,5 +536,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rajendra7585/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
