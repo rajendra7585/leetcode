@@ -3,7 +3,7 @@ public:
     int tabulation(int n) {
         vector<vector<int>> dp(n + 2, vector<int>(n + 2, 0));
 
-        for (int start = n - 1; start >= 0; start--) {
+        for (int start = n ; start >= 0; start--) {
             for (int end = 1; end <= n; end++) {
                 if (start == end) {
                     dp[start][end] = 0;
