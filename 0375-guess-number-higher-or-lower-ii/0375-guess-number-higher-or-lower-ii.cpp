@@ -5,9 +5,7 @@ public:
 
         for (int start = n ; start >= 0; start--) {
             for (int end = 1; end <= n; end++) {
-                if (start == end) {
-                    dp[start][end] = 0;
-                } else if (start < end) {
+                if (start < end) {
                     int ans = INT_MAX;
                     for (int i = start; i <= end; i++) {
                         int left = (i - 1 >= start) ? dp[start][i - 1] : 0;
