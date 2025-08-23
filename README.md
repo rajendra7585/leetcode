@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rajendra7585/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajendra7585/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/rajendra7585/leetcode/tree/master/0860-design-circular-queue) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rajendra7585/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rajendra7585/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajendra7585/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rajendra7585/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
