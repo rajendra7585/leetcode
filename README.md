@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajendra7585/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajendra7585/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rajendra7585/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajendra7585/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajendra7585/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajendra7585/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajendra7585/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rajendra7585/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajendra7585/leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/rajendra7585/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/rajendra7585/leetcode/tree/master/0890-lemonade-change) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rajendra7585/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Number Theory
 |  |
