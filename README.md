@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajendra7585/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rajendra7585/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajendra7585/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/rajendra7585/leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/rajendra7585/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajendra7585/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajendra7585/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rajendra7585/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajendra7585/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajendra7585/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/rajendra7585/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajendra7585/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajendra7585/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rajendra7585/leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajendra7585/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
