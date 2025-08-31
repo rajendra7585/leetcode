@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajendra7585/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajendra7585/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rajendra7585/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajendra7585/leetcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/rajendra7585/leetcode/tree/master/0169-majority-element) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rajendra7585/leetcode/tree/master/0547-number-of-provinces) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rajendra7585/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rajendra7585/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
