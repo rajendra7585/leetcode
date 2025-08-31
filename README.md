@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rajendra7585/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajendra7585/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rajendra7585/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajendra7585/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajendra7585/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rajendra7585/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
