@@ -21,7 +21,7 @@ public:
         vector<vector<int>>adj(n);
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(i!=j && isConnected[i][j]==1){
+                if( isConnected[i][j]==1){
                 adj[i].push_back(j);}}
 
             }
