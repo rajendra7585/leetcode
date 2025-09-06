@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/rajendra7585/leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/rajendra7585/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/1036-rotting-oranges) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0907-koko-eating-bananas](https://github.com/rajendra7585/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rajendra7585/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Number Theory
