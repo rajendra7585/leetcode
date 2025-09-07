@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rajendra7585/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajendra7585/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajendra7585/leetcode/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/rajendra7585/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rajendra7585/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rajendra7585/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajendra7585/leetcode/tree/master/0118-pascals-triangle) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rajendra7585/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rajendra7585/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/rajendra7585/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/rajendra7585/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajendra7585/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/rajendra7585/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajendra7585/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/rajendra7585/leetcode/tree/master/0410-split-array-largest-sum) |
