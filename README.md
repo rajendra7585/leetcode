@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/rajendra7585/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/rajendra7585/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/rajendra7585/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rajendra7585/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rajendra7585/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/rajendra7585/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rajendra7585/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Number Theory
 |  |
