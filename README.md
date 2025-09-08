@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rajendra7585/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajendra7585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/rajendra7585/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajendra7585/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajendra7585/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/rajendra7585/leetcode/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/rajendra7585/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajendra7585/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -346,10 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/rajendra7585/leetcode/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/rajendra7585/leetcode/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/rajendra7585/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Greedy
