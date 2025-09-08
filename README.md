@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rajendra7585/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajendra7585/leetcode/tree/master/0268-missing-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajendra7585/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajendra7585/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajendra7585/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/rajendra7585/leetcode/tree/master/2032-largest-odd-number-in-string) |
