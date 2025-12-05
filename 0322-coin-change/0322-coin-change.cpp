@@ -7,7 +7,7 @@ int tabl(int n,vector<int>& coins,int amount){
     }
     for(int t=1;t<=amount;t++){
         if(t%coins[0]==0)dp[0][t]= t/coins[0];
-        else dp[0][t]=INT_MAX;
+        
     }
     for(int i=1;i<n;i++){
         for(int t=1;t<=amount;t++){
