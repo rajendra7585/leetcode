@@ -10,13 +10,14 @@ public:
                 return INT_MAX;
         }
         if(dp[idx][amount]!=-1)return dp[idx][amount];
-        int exclude = recurs(coins, idx - 1, amount,dp);
+        
         int include = INT_MAX;
         if (amount >= coins[idx]){
             int sub=recurs(coins, idx , amount - coins[idx],dp);
             if(sub!=INT_MAX){
                 include=1+sub;
             }}
+            int exclude = recurs(coins, idx - 1, amount,dp);
         return dp[idx][amount]=min(include, exclude);
     }
     int coinChange(vector<int>& coins, int amount) {
