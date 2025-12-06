@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rajendra7585/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/1036-rotting-oranges) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rajendra7585/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rajendra7585/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/rajendra7585/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/rajendra7585/leetcode/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajendra7585/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rajendra7585/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajendra7585/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rajendra7585/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajendra7585/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajendra7585/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/rajendra7585/leetcode/tree/master/0890-lemonade-change) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajendra7585/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/rajendra7585/leetcode/tree/master/2032-largest-odd-number-in-string) |
