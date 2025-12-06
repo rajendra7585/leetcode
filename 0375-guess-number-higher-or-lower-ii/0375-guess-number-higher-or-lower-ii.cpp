@@ -1,24 +1,16 @@
 class Solution {
 public:
-    int tabulation(int n) {
-        vector<vector<int>> dp(n + 2, vector<int>(n + 2, 0));
-
-        for (int start = n ; start >= 0; start--) {
-            for (int end = 1; end <= n; end++) {
-                if (start < end) {
-                    int ans = INT_MAX;
-                    for (int i = start; i <= end; i++) {
-                        int left = (i - 1 >= start) ? dp[start][i - 1] : 0;
-                        int right = (i + 1 <= end) ? dp[i + 1][end] : 0;
-                        ans = min(ans, i + max(left, right));
-                    }
-                    dp[start][end] = ans;
-                }
-            }
-        }
-
-        return dp[1][n];
+int recurs(int start, int end,vector<vector<int>>&dp){
+    if(start>=end)return 0;
+    if(dp[start][end]!=-1)return dp[start][end];
+    int ans=INT_MAX;
+    for(int i=start;i<=end;i++){
+        ans=min(ans,i+max(recurs(start,i-1,dp),recurs(i+1,end,dp)));
     }
-
-    int getMoneyAmount(int n) { return tabulation(n); }
+    return dp[start][end]=ans;
+}
+    int getMoneyAmount(int n) {
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
+        return recurs(0,n,dp);
+    }
 };
