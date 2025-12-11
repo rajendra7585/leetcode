@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajendra7585/leetcode/tree/master/0130-surrounded-regions) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajendra7585/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/rajendra7585/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
@@ -651,15 +652,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajendra7585/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rajendra7585/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajendra7585/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajendra7585/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rajendra7585/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Game Theory
 |  |
