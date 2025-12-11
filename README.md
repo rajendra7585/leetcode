@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rajendra7585/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajendra7585/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rajendra7585/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2895-minimum-processing-time](https://github.com/rajendra7585/leetcode/tree/master/2895-minimum-processing-time) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/rajendra7585/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajendra7585/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rajendra7585/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/rajendra7585/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2509-minimize-xor](https://github.com/rajendra7585/leetcode/tree/master/2509-minimize-xor) |
+| [2895-minimum-processing-time](https://github.com/rajendra7585/leetcode/tree/master/2895-minimum-processing-time) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajendra7585/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rajendra7585/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajendra7585/leetcode/tree/master/0455-assign-cookies) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2895-minimum-processing-time](https://github.com/rajendra7585/leetcode/tree/master/2895-minimum-processing-time) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajendra7585/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
