@@ -1,32 +1,29 @@
 class Solution {
 public:
     string reorganizeString(string s) {
-        unordered_map<char, int> freq;
-        for (char c : s)
-            freq[c]++;
-
-        string ans = "";
+        unordered_map<char, int> f;
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            f[s[i]]++;
+        }
         char prev = '#';
-
-        for (int k = 0; k < s.size(); k++) {
-
+        string ans = "";
+        for (int k = 0; k < n; k++) {
             char best = 0;
-            int bestCnt = -1;
-
-            for (auto& p : freq) {
-                if (p.second > 0 && p.first != prev) {
-                    if (p.second > bestCnt) {
-                        best = p.first;
-                        bestCnt = p.second;
+            int bc = -1;
+            for (const auto j : f) {
+                if (j.second > 0 && j.first != prev) {
+                    if (j.second > bc) {
+                        best = j.first;
+                        bc = j.second;
                     }
                 }
             }
-
-            if (bestCnt == -1)
-                return ""; // impossible
+            if (bc == -1)
+                return "";
 
             ans.push_back(best);
-            freq[best]--;
+            f[best]--;
             prev = best;
         }
         return ans;
