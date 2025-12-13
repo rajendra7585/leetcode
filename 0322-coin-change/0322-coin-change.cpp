@@ -1,11 +1,11 @@
 class Solution {
 public:
 int tabl(int n,vector<int>& coins,int amount){
-    vector<int>dp(amount+1,INT_MAX);
+    vector<int>dp(amount+1,1e9);
     dp[0]=0;
     for(int i=1;i<=amount;i++){
         for(int c:coins){
-            if(i>=c && dp[i-c]!=INT_MAX){
+            if(i>=c){
             dp[i]=min(dp[i],1+dp[i-c]);}
         }
     }
@@ -36,7 +36,7 @@ int tabl(int n,vector<int>& coins,int amount){
         
         vector<vector<int>>dp(n,vector<int>(amount+1,-1));
         int ans = tabl(n,coins,amount);
-        if (ans == INT_MAX)
+        if (ans == 1e9)
             return -1;
         return ans;
     }
