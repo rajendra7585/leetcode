@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/rajendra7585/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0755-reach-a-number](https://github.com/rajendra7585/leetcode/tree/master/0755-reach-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rajendra7585/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1512-number-of-good-pairs](https://github.com/rajendra7585/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/rajendra7585/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rajendra7585/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rajendra7585/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-number-of-good-pairs](https://github.com/rajendra7585/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/rajendra7585/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rajendra7585/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajendra7585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rajendra7585/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1428-jump-game-iii](https://github.com/rajendra7585/leetcode/tree/master/1428-jump-game-iii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rajendra7585/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1512-number-of-good-pairs](https://github.com/rajendra7585/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/rajendra7585/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rajendra7585/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rajendra7585/leetcode/tree/master/0767-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajendra7585/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1512-number-of-good-pairs](https://github.com/rajendra7585/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/rajendra7585/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/rajendra7585/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajendra7585/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
