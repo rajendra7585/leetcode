@@ -1,15 +1,13 @@
 class Solution {
 public:
 int tabl(int n,vector<int>& coins,int amount){
-    vector<int>dp(amount+1,1e9);
-    dp[0]=0;
-    for(int i=1;i<=amount;i++){
-        for(int c:coins){
-            if(i>=c){
-            dp[i]=min(dp[i],1+dp[i-c]);}
-        }
-    }
-    return dp[amount];
+   vector<int>dp(amount+1,1e9);
+   dp[0]=0;
+   for(int i=1;i<=amount;i++){
+      for(int c:coins){
+    if(i>=c)dp[i]=min(dp[i],1+dp[i-c]);
+   }}
+   return dp[amount];
 }
     int recurs(vector<int>& coins, int idx, int amount,vector<vector<int>>&dp) {
         if (amount == 0)
