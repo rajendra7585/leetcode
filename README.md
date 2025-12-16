@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/rajendra7585/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/rajendra7585/leetcode/tree/master/0952-word-subsets) |
+| [0994-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/1036-rotting-oranges) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/rajendra7585/leetcode/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/rajendra7585/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/rajendra7585/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/rajendra7585/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/rajendra7585/leetcode/tree/master/1428-jump-game-iii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/rajendra7585/leetcode/tree/master/0733-flood-fill) |
 | [0891-score-after-flipping-matrix](https://github.com/rajendra7585/leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/rajendra7585/leetcode/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/rajendra7585/leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/rajendra7585/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rajendra7585/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
