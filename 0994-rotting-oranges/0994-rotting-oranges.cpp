@@ -11,11 +11,12 @@ public:
                 if(grid[i][j]==2)q.push({i,j});
             }
         }
-        vector<pair<int,int>>dire={{0,1},{0,-1},{1,0},{-1,0}};
         int time=0;
-        while(!q.empty() && fresh>0){
-            int s=q.size();
+        vector<pair<int,int>>dire={{1,0},{-1,0},{0,1},{0,-1}};
+        while(fresh>0 && !q.empty()){
+            
             time++;
+            int s=q.size();
             while(s--){
                 const auto node=q.front();
                 q.pop();
@@ -30,12 +31,10 @@ public:
                         q.push({dx,dy});
                     }
                 }
+
             }
         }
-        if(fresh>0){
-            return -1;
-        }
+        if(fresh>0)return -1;
         else return time;
-        
     }
 };
