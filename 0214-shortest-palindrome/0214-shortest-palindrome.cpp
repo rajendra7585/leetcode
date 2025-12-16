@@ -1,29 +1,14 @@
 class Solution {
 public:
     string shortestPalindrome(string s) {
-        string rev = s;
-        reverse(rev.begin(), rev.end());
-
-        string combined = s + "#" + rev;
-        int n = combined.size();
-
-        vector<int> lps(n, 0);
-        int len = 0;
-
-        for (int i = 1; i < n; i++) {
-            while (len > 0 && combined[i] != combined[len]) {
-                len = lps[len - 1];
-            }
-            if (combined[i] == combined[len]) {
-                len++;
-                lps[i] = len;
+        const string t={s.rbegin(),s.rend()};
+        const string_view sv(s);
+        const string_view tv(t);
+        for(int i=0;i<s.length();i++){
+            if(sv.substr(0,s.length()-i)==tv.substr(i)){
+                return t.substr(0,i)+s;
             }
         }
-
-        int longestPalPrefix = lps[n - 1];
-        string suffix = s.substr(longestPalPrefix);
-        reverse(suffix.begin(), suffix.end());
-
-        return suffix + s;
+        return t+s;
     }
 };
