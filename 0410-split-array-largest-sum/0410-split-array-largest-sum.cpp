@@ -1,24 +1,41 @@
 class Solution {
 public:
-   int solve(int idx,int k,int n,vector<int>&presum,vector<vector<int>>&dp){
-    if(k==1)return presum[n]-presum[idx];
-    if(dp[idx][k]!=-1)return dp[idx][k];
-    int ans=INT_MAX;
-    for(int i=idx;i<=n-k;i++){
-        int leftsum=presum[i+1]-presum[idx];
-        int right=solve(i+1,k-1,n,presum,dp);
-        int worst=max(leftsum,right);
-        ans=min(ans,worst);
-    }
-    return dp[idx][k]=ans;
-   }
-    int splitArray(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<int>presum(n+1,0);
-        for(int i=0;i<n;i++){
-            presum[i+1]=presum[i]+nums[i];
+    bool solve(vector<int>& arr, int k, int mid) {
+        int n = arr.size();
+        int pages = 0;
+        int c = 1;
+        for (int i = 0; i < n; i++) {
+            if ((pages + arr[i]) > mid) {
+                pages = arr[i];
+                c++;
+            } else {
+                pages += arr[i];
+            }
+            if (c > k)
+                return false;
         }
-        vector<vector<int>>dp(n+1,vector<int>(k+1,-1));
-       return solve(0,k,n,presum,dp);
+
+        return true;
     }
+int splitArray(vector<int>& arr, int k) {
+
+    int n = arr.size();
+    int ans;
+    if (k > n)
+        return -1;
+    int low = *max_element(arr.begin(), arr.end());
+    int high = accumulate(arr.begin(), arr.end(), 0);
+    while (low <= high) {
+        int mid = (low + high) / 2;
+        if (solve(arr, k, mid)) {
+            ans = mid;
+            high = mid - 1;
+        } else {
+            low = mid + 1;
+        }
+    }
+    return ans;
+
+
+}
 };
