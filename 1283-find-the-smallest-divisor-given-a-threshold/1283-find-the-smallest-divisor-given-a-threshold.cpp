@@ -20,6 +20,7 @@ public:
             if(sum>threshold){
                 
                 low=mid+1;
+                ans=low;
             
             }
             else{
@@ -28,6 +29,6 @@ public:
                 
             }
         }
-        return low;
+        return ans;
     }
 };
