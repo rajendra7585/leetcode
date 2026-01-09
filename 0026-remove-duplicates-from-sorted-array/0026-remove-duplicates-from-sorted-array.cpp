@@ -11,15 +11,13 @@ public:
 
         int m = s.size();
         int j = m - 1;
-        vector<int>d;
+        
         for (auto k : s) {
-            d.push_back(k);
+            nums[j]=k;
             j--;
         }
-        sort(d.begin(),d.end());
-        for(int i=0;i<m;i++){
-            nums[i]=d[i];
-        }
+        sort(nums.begin(),nums.begin()+m);
+        
         return m;
     }
 };
