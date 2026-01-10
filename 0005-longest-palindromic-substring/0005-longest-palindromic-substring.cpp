@@ -1,22 +1,23 @@
 class Solution {
 public:
-bool ispalindromic(string&s,int start,int end){
-    while(start<end){
-        if(s[start]!=s[end]){
-            return false;
-        }
-        start++;
-        end--;
+   bool checkp(string &s,int i,int j){
+    int n=s.size();
+    while(i<j){
+        if(s[i]!=s[j])return false;
+        i++;
+        j--;
     }
     return true;
-}
+   }
     string longestPalindrome(string s) {
+        int n=s.size();
+        
         string ans="";
-        for(int i=0;i<s.size();i++){
-            for(int j=i;j<s.size();j++){
-                if(ispalindromic(s,i,j)){
-                    string t= s.substr(i,j-i+1);
-                    ans = t.size()>ans.size() ? t :ans;
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                if(checkp(s,i,j)){
+                     string f=s.substr(i,j-i+1);
+                     ans=f.size()>ans.size()?f:ans;
                 }
             }
         }
